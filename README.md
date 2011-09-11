@@ -1,3 +1,13 @@
+     -----------
+    < Shelby.tv >
+     -----------
+      \
+       \
+          /\___)o<
+         |      \
+         | O . O|
+          \_____/
+
 # Shelby.tv
 
 This is a Ruby wrapper for the [Shelby.tv](http://shelby.tv/) API. It uses objects instead of hashes and add associations.
