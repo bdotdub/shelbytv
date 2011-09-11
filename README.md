@@ -58,8 +58,9 @@ Now you can get a Shelby using only an access token and make requests on user's 
     shelbytv.auth_token = access_token.token
     shelbytv.auth_secret = access_token.secret
 
-#### Built at [Hackday.tv](http://hackday.tv/)
-
 #### License
 
 See `LICENSE`
+
+#### Built at [Hackday.tv](http://hackday.tv/)
+
