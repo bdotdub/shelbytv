@@ -14,6 +14,10 @@ This is a Ruby wrapper for the [Shelby.tv](http://shelby.tv/) API. It uses objec
 
 ## Installation
 
+To install this gem systemwide:
+
+    gem install shelbytv
+
 Install it as a gem (in your `Gemfile`) and its dependencies:
 
     gem "shelbytv"
