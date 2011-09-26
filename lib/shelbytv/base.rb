@@ -2,7 +2,7 @@ require 'oauth/signature/plaintext'
 
 module Shelbytv
   class Base
-    API = "http://api.shelby.tv/v1/"
+    API = "http://api.shelby.tv/v2/"
 
     attr_accessor :auth_token, :auth_secret, :request_token
 
